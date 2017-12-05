@@ -7,5 +7,6 @@
 	<classpathentry kind="src" output="target/test-classes" path="src/test/java"/>
 	<classpathentry kind="src" output="target/test-classes" path="src/test/resources"/>
 	<classpathentry kind="lib" path="/home/bjit-8/BJIT_WORKS/OSB_To_Mule/workspace/product_registration/activemq-core-5.5.1.jar"/>
+	<classpathentry kind="lib" path="/home/bjit-8/BJIT_WORKS/OSB_To_Mule/workspace/ProductRegistrationFirstMuleInActionApp/activemq-core-5.5.1.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
